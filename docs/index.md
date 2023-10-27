@@ -18,6 +18,9 @@ features:
   - title: Github
     details: 欢迎Star
     Link: https://github.com/eeee0717
+  - title: Bilibili
+    details: 欢迎关注
+    Link: https://space.bilibili.com/52423255
 
 ---
 
